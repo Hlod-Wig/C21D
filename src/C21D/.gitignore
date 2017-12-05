@@ -1,2 +1,4 @@
 /C21D_Config.py
 *.pyc
+/C21D_Config_PR_Manager.py
+/C21D_Config_Uploader.py
